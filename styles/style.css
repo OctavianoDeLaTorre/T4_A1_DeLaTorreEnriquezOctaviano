@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	color: #8C0000;
+}
+
+h2{
+	text-align: center;
+	color: #8C0000;
+}
+
+table{
+  	border-collapse: collapse;
+    border: 2px solid #bbb;
+    font-size: 14px;
+    background-color: #FFFFFFFF;
+    margin: 0 auto;
+
+}
+
+
+
+table th {
+    font-weight: bold;
+    background-color: #E1E1E1;
+    padding:5px;
+}
